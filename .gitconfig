@@ -3,3 +3,5 @@
     st = status
     di = diff
     br = branch
+[core]
+        excludesfile = /Users/yoichiro/.gitignore_global

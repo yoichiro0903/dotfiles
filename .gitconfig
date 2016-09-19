@@ -4,4 +4,4 @@
     di = diff
     br = branch
 [core]
-        excludesfile = /Users/yoichiro/.gitignore_global
+        excludesfile = ~/.gitignore_global
